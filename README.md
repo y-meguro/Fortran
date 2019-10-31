@@ -1,2 +1,2 @@
-# Fortran_tutorial
+# Fortran
 Fortranのチュートリアルを触ってみる
